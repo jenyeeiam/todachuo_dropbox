@@ -1,0 +1,17 @@
+th.roster {
+	font-size: 2em;
+	font-family: Bookman, serif; 
+	color: black;
+	text-align: center;
+	
+}
+
+td {
+
+	font-size: 1.1em;
+	color: black;
+	background-color: #94DEF2;
+	vertical-align: center;
+	text-align: center;
+}
+

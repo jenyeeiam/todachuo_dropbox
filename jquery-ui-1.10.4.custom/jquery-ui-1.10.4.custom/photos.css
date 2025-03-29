@@ -1,0 +1,11 @@
+div.pics {
+	float:left;
+	margin:auto;
+	height: 500px;
+	width:500px;
+}
+
+img.photo {
+	height:100px;
+	width:100px;
+}
